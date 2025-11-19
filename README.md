@@ -1,4 +1,4 @@
-# Primeblocks Discord Bot
+# Discord Bot
 
 Funktionsreicher Discord-Bot mit Ticket-System, Verifizierungs-Panel, Musikplayer (yt-dlp/FFmpeg) und umfangreicher In-Server-Konfiguration.
 
@@ -51,3 +51,4 @@ python -m py_compile bot.py
 ```
 
 Viel Spass beim Anpassen! Alle Kernfunktionen sind modular als Cogs implementiert (`cogs/`).
+
