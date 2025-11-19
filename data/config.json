@@ -1,0 +1,17 @@
+{
+  "command_prefix": "!",
+  "guild_id": 1246534065260331120,
+  "ticket_channel_id": 1246746595681239040,
+  "ticket_panel_channel_id": 1246746595681239040,
+  "ticket_queue_channel_id": 0,
+  "verify_channel_id": 1260893595691515926,
+  "music_channel_id": 1274403321603559528,
+  "music_log_channel_id": 1255928908348653619,
+  "admin_role_id": 1439299790646153246,
+  "verified_role_id": 1255928008645283932,
+  "dj_role_id": 0,
+  "ffmpeg_path": "./ffmpeg",
+  "enable_message_content_intent": true,
+  "enable_members_intent": true,
+  "enable_presence_intent": false
+}
